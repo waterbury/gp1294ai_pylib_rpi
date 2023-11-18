@@ -1,0 +1,6 @@
+GPIO 8 (SPI0 CE0)    Chip Select
+GPIO 25              Filement_EN
+GPIO 24              Reset
+
+GPIO 11 (SPI0 SCLK)  Clock
+GPIO 10 (SPI0 MOSI)  MOSI
